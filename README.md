@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Rowshni 👋
 
-<!--
-**rows0001/rows0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Business Analytics graduate from Monash University  
+📍 Based in Melbourne, Australia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+I am passionate about using data to solve business problems and generate actionable insights.  
+I have experience in customer engagement and retention analysis, and I enjoy working with data to support decision-making.
+
+---
+
+## 🛠 Skills
+- Data Analysis & EDA  
+- Statistical Modelling  
+- Data Visualisation  
+
+**Tools:**  
+R | SQL | Excel | Tableau 
+
+---
+
+## 📊 Featured Projects
+- 📌 Customer Retention Analysis (Anonymised)
+- 📌 Melbourne Social Indicators Analysis  
+- 📌 Air Quality Analysis  
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/rowshni-fatema-956b13330
