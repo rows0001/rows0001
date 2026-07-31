@@ -29,4 +29,4 @@ R | SQL | Excel | Tableau
 ---
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/rowshni-fatema-956b13330
+- LinkedIn: https://www.linkedin.com/in/rowshni-fatema/
